@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/andreashermansson1/Carousel.git/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/andreashermansson1/Carousel.git/static/js/main.0e227e05.chunk.js",
+    "main.js.map": "/andreashermansson1/Carousel.git/static/js/main.0e227e05.chunk.js.map",
+    "runtime-main.js": "/andreashermansson1/Carousel.git/static/js/runtime-main.b6c2a778.js",
+    "runtime-main.js.map": "/andreashermansson1/Carousel.git/static/js/runtime-main.b6c2a778.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/andreashermansson1/Carousel.git/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.96bbeb4b.chunk.js": "/andreashermansson1/Carousel.git/static/js/2.96bbeb4b.chunk.js",
+    "static/js/2.96bbeb4b.chunk.js.map": "/andreashermansson1/Carousel.git/static/js/2.96bbeb4b.chunk.js.map",
+    "static/js/3.16f0aba7.chunk.js": "/andreashermansson1/Carousel.git/static/js/3.16f0aba7.chunk.js",
+    "static/js/3.16f0aba7.chunk.js.map": "/andreashermansson1/Carousel.git/static/js/3.16f0aba7.chunk.js.map",
+    "index.html": "/andreashermansson1/Carousel.git/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/andreashermansson1/Carousel.git/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/andreashermansson1/Carousel.git/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.96bbeb4b.chunk.js.LICENSE.txt": "/andreashermansson1/Carousel.git/static/js/2.96bbeb4b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/andreashermansson1/Carousel.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6c2a778.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.96bbeb4b.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.0e227e05.chunk.js"
+  ]
+}
